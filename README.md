@@ -1,4 +1,4 @@
-## Hi there 👋 I Francis Torres Cuya
+## Hi there 👋 soy Francis
 
 <!--
 **HarukaDev31/HarukaDev31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
