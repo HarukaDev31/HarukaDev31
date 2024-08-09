@@ -34,7 +34,7 @@
 
 - 💬 Ask me about **AWS, react, vue, angular, laravel nodejs, mongoDB**
 
-- 📫 Feel free to reach me out **harukasugano@gmail.com**
+- 📫 Feel free to reach me out **harukakasugano31@gmail.com**
 
 <!--Intro end-->
 
